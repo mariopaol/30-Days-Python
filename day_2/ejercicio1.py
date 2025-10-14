@@ -6,4 +6,4 @@ for line in lista:
     coordenadas.append(line.split())
     print(coordenadas[i])
     i+=1
-    
+print('hola')
